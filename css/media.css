@@ -1,0 +1,226 @@
+
+@media screen and (max-width: 1200px) {
+	.menu__item {
+    padding: 9px 10px;
+	}
+
+	.burger {
+		visibility: visible;
+	}
+	h1 {
+	    font-size: 4.267rem;
+	     letter-spacing: 0.25em;
+	}
+	.wait__header p {
+     font-size: 2.933rem;
+     letter-spacing: 0.15em;
+	}
+	.card {
+		margin-bottom: 30px;
+	}
+	
+	.how-to-move {
+		width: 90%;
+	}
+	.sunnrise {
+		-moz-padding-block: 100px;
+    -webkit-padding-block: 100px;
+    padding-top: 100px;
+	}
+	.property__text {
+    width: 70%;
+    }
+  	.angles_left {
+    margin-right: 40px;
+	}
+
+	.angles_right {
+	    margin-left: 40px;
+	}
+
+	.text__footer span {
+	   margin: 0px 5%;
+	}
+
+	.round-img:nth-child(3) {
+    left: 58%;
+}
+.contacts__block {
+	box-shadow: none;
+    position: static;
+    background: none;
+    width: 100%;
+}
+
+/*MOVE PAGE*/
+.new-house__container  {
+    width: 100%;
+    position: static;
+    box-shadow: none;
+     background: none;
+}
+
+.new-house__block  {
+   padding-right: 0px;
+}
+    
+    /*About*/
+.about__container {
+    width: 100%;
+    background: none;
+    position: static;
+    box-shadow: none;
+    border-radius: none;
+}
+.partners_card {
+    width: 100%;
+    height: 605px;
+}
+
+
+}
+
+@media screen and (max-width: 991px) {
+	.card_competence {
+		width: 48%;
+		margin: 0px auto;
+	}
+
+	.link__block img {
+    vertical-align: top;
+    padding: 15px 40px 0px 20px;
+
+}
+}
+
+
+@media screen and (max-width: 770px) {
+	h1 {
+	    font-size: 3.133rem;
+	     letter-spacing: 0.25em;
+	}
+
+h2 {
+    font-size: 2.2rem;
+}
+	.wait__header p {
+     font-size: 2.2rem;
+     letter-spacing: 0.15em;
+	}
+	.card_competence {
+		width: 100%;
+	}
+	#move {
+		background: #2b4458 top center;
+		z-index: 3;
+	}
+	#property {
+		background: #fff;
+	}
+	.sunnrise{
+	 /*background: url(../img/city-bg.png) no-repeat center top;
+	 padding-bottom: 30px;
+*/	}
+	
+	.property__text {
+    width: 90%;
+	}
+	.text__block {
+	    background: #f4f4f4;
+	    padding: 20px;
+	    padding-top: 60px;
+	}
+	.property__text_par {
+	    padding: 20px;
+	   
+	}
+	.property_act { 
+	 }
+
+	 .round-img:nth-child(3) {
+	    right: 9%;
+	}
+
+	.round-img:nth-child(1) {
+	    left: 35%;
+	}
+
+
+	.card_diana img{
+	    position: absolute;
+	    transform: translate(-50%,-50%);
+	    top: 0%;
+	    left: 50%;
+	}
+	.card_diana {
+		text-align: center;
+	    padding: 0px;
+	    padding-top: 73px;
+
+	}
+
+	.card_diana strong,.card_diana a,.card_diana span {
+		padding: 0px;
+		display: block;
+		padding-bottom: 5px;
+	    
+	}
+	.card_diana p {
+		padding: 28px;
+	}
+
+
+
+.link {
+    text-align: center;
+    
+}
+
+.link__block img {
+	display: block;
+    vertical-align: auto;
+    padding: 15px 0px;
+    margin: 0px auto;
+
+}
+
+/*MOVE PAGE*/
+.new-house__block span {
+    padding: 20px 0px 0px 10px;
+    display: block;
+    font-size: 1.067rem;
+    text-align: center;
+    width: 100%;
+    vertical-align: 0px;
+}
+
+.new-house__block img {
+    padding-right: 0px;
+}
+
+
+.new-house__block_second img {
+    padding-left: 0px;
+
+}
+
+/*about*/
+
+.pleased {
+    display: block;
+   margin: 0px auto;
+}
+.already {
+   display: block;
+   margin: 0px auto;
+   padding: 20px 0px;
+}
+.bn__house {
+     display: block;
+     margin: 0px auto;
+}
+
+.partners_card {
+	margin-bottom: 30px;
+}
+}
